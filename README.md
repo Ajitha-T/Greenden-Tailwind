@@ -5,7 +5,7 @@ Greenden is a simple and responsive website created using "HTML and Tailwind CSS
 ## Pages
 
 * Home – Introduction and main sections of the website
-* Product – Displays the available products
+* Products – Displays the available products
 * Contact – Contact information and a contact form
 
 ## Technologies Used
